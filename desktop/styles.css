@@ -1,0 +1,93 @@
+/*
+	<!-- styles.css
+	Alex Barbosa
+	personal portfolio desktop
+	This is where i do all my styling for my website
+-->	*/
+body
+{
+	background-color: #FF4747;
+}
+.navigationbar {
+
+list-style-type: none;
+padding-left: 0px;
+padding-right: 0px;
+background: #B2CCCC;
+width: 100px;
+margin: 0;
+padding: 5em, 0em, 5em, 0em;
+float:top;
+
+
+}
+.navigationbar li 
+{
+	display: inline;
+
+}
+.navigationbar li a 
+{
+	display: block;
+	padding: 20px;
+	text-align: center;
+}
+
+#icons
+{
+	float: right;
+}
+#icons ul li
+{
+	display: inline;
+}
+#icons ul
+{
+	padding-top: 10px;
+}
+
+#headerlogo
+{
+	text-align: center;
+}
+
+.homeinfo
+{
+	text-align: center;
+	margin: 0;
+
+}
+
+footer
+{
+	position: bottom;
+}
+
+.picture
+{
+	padding-left: 850;
+	
+}
+
+#bio
+{
+	text-align: center;
+}
+
+.slider
+{
+	float: right;
+}
+.projects
+{
+	width: 200px;
+ 	height : auto;
+}
+#content
+{
+	text-align: center;
+}
+#contact
+{
+	text-align: center;
+}

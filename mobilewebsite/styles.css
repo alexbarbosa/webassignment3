@@ -1,0 +1,45 @@
+/*
+	<!-- styles.css
+	Alex Barbosa
+	personal portfolio mobile
+	This is where i do all my styling for my website
+-->	*/
+@charset "utf-8";
+/* CSS Document */
+.slider
+{
+	width:100%;
+	height:300px;
+	overflow:hidden;
+	margin: 30px auto;
+}
+
+.slider img{
+	width: 375px;
+	display:none;
+	position:relative;	
+}
+#footer
+{
+	bottom:0%;
+	position:absolute;
+	width:100%;
+}
+
+#projectsimages img
+{
+	width:200px;
+}
+
+#aboutpic img
+{
+	width:100px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.navlink
+{
+	font-size:10px;
+}
